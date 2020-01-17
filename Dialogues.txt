@@ -15,23 +15,20 @@ Star:Paresh Rawal
 Kutriya saala, dekh ke number dial kar!
 Star:Paresh Rawal
 
-
 Utha le re baba, utha le ... mereko nahi re, in dono ko utha le
 Star:Paresh Rawal
 
-Devi ka prasad mandir mein milta hai ... garage mein nahin
-Star:Paresh Rawal
-
+Devika prasad mandir mein milta hai ... garage mein nahin
+Star:
 
 Pehle mereko yeh samjha ki ... isko samjhana kya hai
 Star:Paresh Rawal
 
-
-Agar subah subah sandaas jana hai toh singer banna padega
+Agar subah subah bathroom jana hai toh singer banna padega
 Star:Paresh Rawal
 
 Sunday ko aa ... Sunday ko mast naha do ke aa
-Star:Paresh Rawal
+Star:Akshay Kumar
 
 Meri kundli mein khoon likha hai ... maloom hai na?
 Star:Akshay Kumar
@@ -53,13 +50,12 @@ Star:Paresh Rawal
 Amir aadmi pandhra minute mein apne kapde badalta hai, aadhe ghante mein apna ghar badalta hai, ek ghante mein apna dhanda badalta hai ... aur do ghante mein apni biwi badalta hai
 Star:Akshay Kumar
 
-Har dhoti pehenne waala Gandhi nahi hota
-Star:Johnny Lever
+Har dhoti pehenne waala Gandhi nahi hotaStar:Johnny Lever
 
 Iske mooh mein pehdaishi supari hai ... yeh totla hai
 Star:Akshay Kumar
 
-Yahan ki pani puri, poore Mumbai mein world famous hai
+Yahan ki sev puri, poore Mumbai mein world famous hai
 Star:Rimi Sen
 
 
@@ -68,10 +64,7 @@ Star:Rimi Sen
 |
 ==================================================================================
 
-
-
-
-Life is a race ... if you don't run fast ... you will be like a broken undaa
+Life is a race ... if you don't run fast ... you will be like a bokeh undaa
 Star:Aamir Khan
 
 Dost fail ho jaye toh dukh hota hai ... lekin dost first aa jaye toh zyada dukh hota hai
@@ -80,7 +73,7 @@ Star:Madhavan
 Bachcha kabil bano, kabil ... kamyabi toh saali jhak maarke peeche bhagegi
 Star:Madhavan
 
-Tum Gujarati log itne cute hote ho ... par tum log ka khana itna khatarnak kyun hota hai ... dhokla, fafda, handva, thepla ... aaise lagta hai jaise koi missiles hai
+Tum Gujarati log itne cute hote ho ... par tum log ka khana itna khatarnak kyun hota hai ... dhokla, fafda, handva, thepla ... aaise lagta hai jaise koi missions hai
 Star:Kareena Kapoor
 
 Jahapanah tussi great ho ... tofu kabool karo
@@ -89,7 +82,7 @@ Star:Omi Vaidya
 Kaise sign karon yaar ... meri pen toh tu le gayi
 Star:Aamir Khan
 
-Millimeter ab centimeter joh ban gaya hai
+Millimeter ab kilometer joh ban gaya hai
 Star: Unknown
 
 Aaj Bush ne Iraq pe do dhokle gira diye
@@ -99,7 +92,7 @@ Naag devta mera physics bacha lena ... roz ek liter doodh bhijwaonga
 Star: Unknown
 
 Paneer to beta, kuch dinno mein itti itti thailiyo mein sonaar ki dukaan pe bikega
-
+Star: 
 
 
 ==================================================================================
@@ -110,44 +103,3 @@ Paneer to beta, kuch dinno mein itti itti thailiyo mein sonaar ki dukaan pe bike
 
 Abhe tere jaise ko toh main har shanivar ko ... paanch hari mirchion ke saath apne ghar ke bahar latkata hoon
 Star:Ritesh Deshmukh
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
