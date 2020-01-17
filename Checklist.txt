@@ -1,6 +1,31 @@
 #CHECKLIST
+//Flow
+1. Edit movie cast
+
+2. Edit/Correct dialogues of movies one by one
+
+3. Edit/Correct Star names one by one
+
+4. Delete the last movie
+
+
+===============================================================================
+
+
+
 //mark the errors here
 1. Movie names
 
-Woh main mast tel mein fry karke, woh main kha gaya
-Machli
+2. Check the dialogues
+
+3. Check the stars names
+
+4. Remove the last movie
+
+5. Add cast after movie names
+
+6. Add full name of R Madhavan
+
+7. Remove Unknown stars
+
+8. Find name of Raju's mother
